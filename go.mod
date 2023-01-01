@@ -9,7 +9,7 @@ require (
 	github.com/jpillora/backoff v1.0.0
 	github.com/markcheno/go-talib v0.0.0-20190307022042-cd53a9264d70
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/samber/lo v1.27.1
+	github.com/samber/lo v1.37.0
 	github.com/schollz/progressbar/v3 v3.10.0
 	github.com/sirupsen/logrus v1.9.0
 	github.com/stretchr/testify v1.8.0
@@ -45,5 +45,6 @@ require (
 	golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17 // indirect
 	golang.org/x/sys v0.0.0-20220829200755-d48e67d00261 // indirect
 	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035 // indirect
+	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
